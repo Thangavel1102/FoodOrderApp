@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  restaurant_id: MyString
+  type: 
+  no_of_items: MyString
+  min_price: MyString
+  max_price: MyString
+
+two:
+  name: MyString
+  restaurant_id: MyString
+  type: 
+  no_of_items: MyString
+  min_price: MyString
+  max_price: MyString
